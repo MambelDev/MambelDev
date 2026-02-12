@@ -41,7 +41,7 @@
 
 ---
 
-### Soft skills ✨
+### Soft skills 🚀
 
 * **Resolución de problemas:** Capacidad para enfrentar retos técnicos complejos durante el desarrollo.
 * **Adaptabilidad:** Facilidad para integrarme en diversos equipos y entornos de trabajo.
