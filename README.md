@@ -30,24 +30,26 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & OS**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### Soft skills 🚀
 
-* **Resolución de problemas:** Capacidad para enfrentar retos técnicos complejos durante el desarrollo.
-* **Adaptabilidad:** Facilidad para integrarme en diversos equipos y entornos de trabajo.
-* **Código Limpio:** Enfoque constante en escribir código estructurado y mantenible.
-* **Pensamiento Crítico:** Análisis profundo de los impactos positivos y negativos en la optimización de procesos.
-* **Idiomas:** Inglés (estudios en UPEL).
+* **Ingles A2 🌎**.
+* **Strategic & Results-oriented 🎯**
+* **Process Optimizer ⚙️**
+* **Resourceful Problem Solver 💡**
+* **Adaptive Team Player 🤝**
+* **Lifelong Learner 🧠**
 
 ---
 
